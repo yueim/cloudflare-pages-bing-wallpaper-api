@@ -1,6 +1,6 @@
 import "@/style.css";
 
-const API_BASE_URL = "https://bing-wallpaper.yue.im/api";
+const API_BASE_URL = "https://bw.yue.im/api";
 
 function openWallpaper() {
 	window.open(API_BASE_URL + "/1080p");
